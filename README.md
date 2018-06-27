@@ -28,7 +28,7 @@ floyd init learning-rates-cifar10
 floyd run --gpu --env tensorflow-1.8 --data signapoop/datasets/cifar-10/1:/data_set 'python train-floyd.py'
 ```
 ## Results
-![](https://drive.google.com/uc?export=view&id=1u9k_Bx6fUbJtjX8b0P6tbiIrWzybwNHr)
+![](https://drive.google.com/uc?export=view&id=1UeFse_kwOBXA0H_WKCJge1Itd4H0QjbW)
 
 ## Acknowledgements
 
